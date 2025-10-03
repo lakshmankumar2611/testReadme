@@ -18,7 +18,6 @@ GitHub Tissues Ops for managing GitHub repositories by raising Tissues.
 <br><br>
 [![Create Team]](https://github.com/abcdef/GitHubs/Tissues/new?assignees=&labels=administration%2Ccreateteam&projects=&template=createteam.yml)  
 **NOTE:** *An Entra ID group needs to match the Team requested. Please do not request this until you have discussed with a member of the SRE  Engineering team.*
-
 <br><br>
 You can view existing Tissues using the `Tissues` tab in this repo.
 
