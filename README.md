@@ -16,7 +16,7 @@ GitHub Tissues Ops for managing GitHub repositories by raising Tissues.
 **NOTE:** *If we are decommissioning a production component, (regardless of what that component is), that the repo is linked to, then this will need a Change Request to be raised (either Standard or Normal depending on the relative risk of the component).*
 
 
-[![Create Team]](https://github.com/abcdef/GitHubs/Tissues/new?assignees=&labels=administration%2Ccreateteam&projects=&template=createteam.yml) 
+[![Create Team]](https://github.com/abcdef/GitHubs/Tissues/new?assignees=&labels=administration%2Ccreateteam&projects=&template=createteam.yml)  
 **NOTE:** *An Entra ID group needs to match the Team requested. Please do not request this until you have discussed with a member of the SRE  Engineering team.*
 
 
